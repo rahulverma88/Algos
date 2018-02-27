@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0005e7d-9501-4a55-b4f7-7719a4990ae5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projEuler_prob21.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projEuler_prob22.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projEuler_prob23.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projEuler_prob24.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,28 +17,18 @@
       <file leaf-file-name="projEuler-prob5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projEuler-prob5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="73">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projEuler_prob23.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projEuler_prob23.py">
+      <file leaf-file-name="projEuler_prob24.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projEuler_prob24.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="projEuler_prob67.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projEuler_prob67.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="65" lean-forward="false" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+            <state relative-caret-position="165">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -97,6 +85,7 @@
         <option value="$PROJECT_DIR$/projEuler_prob21.py" />
         <option value="$PROJECT_DIR$/projEuler_prob22.py" />
         <option value="$PROJECT_DIR$/projEuler_prob23.py" />
+        <option value="$PROJECT_DIR$/projEuler_prob24.py" />
       </list>
     </option>
   </component>
@@ -151,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.projEuler_prob23">
+  <component name="RunManager" selected="Python.projEuler_prob24">
     <configuration name="projEuler_prob17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,23 +154,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="simulations" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projEuler_prob17.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="projEuler_prob19" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="simulations" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projEuler_prob19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,20 +209,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="projEuler_prob24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="simulations" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projEuler_prob24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.projEuler_prob19" />
-      <item index="1" class="java.lang.String" itemvalue="Python.projEuler_prob17" />
-      <item index="2" class="java.lang.String" itemvalue="Python.projEuler_prob21" />
-      <item index="3" class="java.lang.String" itemvalue="Python.projEuler_prob22" />
-      <item index="4" class="java.lang.String" itemvalue="Python.projEuler_prob23" />
+      <item index="0" class="java.lang.String" itemvalue="Python.projEuler_prob17" />
+      <item index="1" class="java.lang.String" itemvalue="Python.projEuler_prob21" />
+      <item index="2" class="java.lang.String" itemvalue="Python.projEuler_prob22" />
+      <item index="3" class="java.lang.String" itemvalue="Python.projEuler_prob23" />
+      <item index="4" class="java.lang.String" itemvalue="Python.projEuler_prob24" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.projEuler_prob23" />
-        <item index="1" class="java.lang.String" itemvalue="Python.projEuler_prob22" />
-        <item index="2" class="java.lang.String" itemvalue="Python.projEuler_prob21" />
-        <item index="3" class="java.lang.String" itemvalue="Python.projEuler_prob17" />
-        <item index="4" class="java.lang.String" itemvalue="Python.projEuler_prob19" />
+        <item index="0" class="java.lang.String" itemvalue="Python.projEuler_prob24" />
+        <item index="1" class="java.lang.String" itemvalue="Python.projEuler_prob23" />
+        <item index="2" class="java.lang.String" itemvalue="Python.projEuler_prob22" />
+        <item index="3" class="java.lang.String" itemvalue="Python.projEuler_prob21" />
+        <item index="4" class="java.lang.String" itemvalue="Python.projEuler_prob17" />
       </list>
     </recent_temporary>
   </component>
@@ -504,22 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projEuler-prob5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projEuler_prob67.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="65" lean-forward="false" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projEuler_prob21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -541,7 +514,31 @@
     <entry file="file://$PROJECT_DIR$/projEuler_prob23.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <caret line="38" column="23" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="38" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projEuler_prob67.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="65" lean-forward="false" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projEuler-prob5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projEuler_prob24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
